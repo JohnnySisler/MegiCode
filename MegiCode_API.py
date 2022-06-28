@@ -2,7 +2,7 @@ from __future__ import unicode_literals, print_function#import pandas as pd
 import random
 from pathlib import Path
 import spacy
-#import openpyxl
+import openpyxl
 import re
 from spacy.training.example import Example
 
